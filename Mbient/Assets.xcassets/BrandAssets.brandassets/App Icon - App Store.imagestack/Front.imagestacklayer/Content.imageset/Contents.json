@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Mbient_logo_Transparent.png",
+      "idiom" : "tv"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
